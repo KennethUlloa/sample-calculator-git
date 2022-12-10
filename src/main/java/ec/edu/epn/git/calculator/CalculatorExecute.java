@@ -8,6 +8,7 @@ public class CalculatorExecute {
         System.out.println("subtraction(10,3) => " + c.subtraction(10, 3));
         System.out.println("multiplication(6,4) => " + c.multiplication(6, 4));
         System.out.println("division(15,3) => " + c.division(15, 3));
+        System.out.println("power(2,5)=> " + c.power(2, 5));
         System.out.println("==== Calculator Execute ====");
 
     }
